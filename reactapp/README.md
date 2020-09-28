@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Employee Directory
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Heroku Application: 
+Application: https://katean004.github.io/directory-employee/
 ![](https://i.gyazo.com/2cbae673fac55e6b9fe95d1ab2e410ed.png)
 
 
@@ -24,7 +24,7 @@ Install express, react, react-dom, react-scripts, and axios packages before usag
 In the terminal of the server, run "npm start" and note any errors.
 
 ## Usage
-Click on Heroku Deployment link on top to go to the application. 
+Click on Deployment link on top to go to the application. 
 
 ## License
 MIT License
