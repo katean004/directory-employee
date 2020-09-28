@@ -4,7 +4,7 @@ import Wrapper from './components/Wrapper';
 import Header from './components/Header';
 import "./App.css";
   
-function App() {
+export default function App() {
     return (
       <div className="App">
         <Wrapper>
@@ -14,5 +14,3 @@ function App() {
       </div>
     );
   }
-  
-  export default App;
