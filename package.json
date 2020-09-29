@@ -2,7 +2,7 @@
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "katean004.github.io/directory-employee",
+  "homepage": "https://katean004.github.io/directory-employee",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
